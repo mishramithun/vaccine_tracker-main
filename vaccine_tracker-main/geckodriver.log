@@ -1,0 +1,423 @@
+1620653833901	geckodriver	INFO	Listening on 127.0.0.1:60676
+1620653837022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileCcC0pt"
+1620653882713	geckodriver	INFO	Listening on 127.0.0.1:60756
+1620653885789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofilemxnX8F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620653889661	Marionette	INFO	Listening on port 60764
+1620653890085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://hm.baidu.com/h.js?2889765bfd8df8545a2e6a517de547f4, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.cowin.co/wp-includes/js/jquery/jquery.js?ver=1.11.0, line 2: Error: Syntax error, unrecognized expression: .icon1,.icon2,.icon3,.icon4,
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620655328686	Marionette	INFO	Stopped listening on port 60764
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileqiwm62"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620655028148	Marionette	INFO	Listening on port 61064
+1620655028208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620655038579	Marionette	INFO	Stopped listening on port 61064
+1620655124906	geckodriver	INFO	Listening on 127.0.0.1:61121
+1620655127983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofile3uGu8X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620655131670	Marionette	INFO	Listening on port 61129
+1620655132207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620655147029	Marionette	INFO	Stopped listening on port 61129
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620655241927	geckodriver	INFO	Listening on 127.0.0.1:61189
+1620655245044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileeyOSi4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620655248882	Marionette	INFO	Listening on port 61197
+1620655249269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620655326288	Marionette	INFO	Stopped listening on port 61197
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620655406889	geckodriver	INFO	Listening on 127.0.0.1:61260
+1620655410014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofiled4hW2L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620655413485	Marionette	INFO	Listening on port 61268
+1620655413716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620655729158	Marionette	INFO	Stopped listening on port 61268
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofile6V2DeX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620655497232	Marionette	INFO	Listening on port 61334
+1620655497309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620655725877	Marionette	INFO	Stopped listening on port 61334
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620655988242	geckodriver	INFO	Listening on 127.0.0.1:61550
+1620655991245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofilebTZtZY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620655994636	Marionette	INFO	Listening on port 61558
+1620655994964	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620658570843	Marionette	INFO	Stopped listening on port 61558
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofile4mzLRD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620658273575	Marionette	INFO	Listening on port 61913
+1620658274070	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1620658550101	Marionette	INFO	Stopped listening on port 61913
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620658600407	geckodriver	INFO	Listening on 127.0.0.1:62090
+1620658603557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofile7OdDaR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620658607299	Marionette	INFO	Listening on port 62098
+1620658607786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620658709231	Marionette	INFO	Stopped listening on port 62098
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620658841339	geckodriver	INFO	Listening on 127.0.0.1:62238
+1620658844428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileRc7Vv8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620658846760	Marionette	INFO	Listening on port 62246
+1620658847091	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620659793675	Marionette	INFO	Stopped listening on port 62246
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofilexvP7UU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620659796816	Marionette	INFO	Listening on port 62450
+1620659797250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620659910364	Marionette	INFO	Stopped listening on port 62450
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620659970600	geckodriver	INFO	Listening on 127.0.0.1:62525
+1620659973676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofilewvVd82"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620659976696	Marionette	INFO	Listening on port 62533
+1620659976848	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620660550499	Marionette	INFO	Stopped listening on port 62533
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620660608649	geckodriver	INFO	Listening on 127.0.0.1:62644
+1620660611756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofile8slfVL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620660614821	Marionette	INFO	Listening on port 62653
+1620660614934	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620662621674	Marionette	INFO	Stopped listening on port 62653
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileoV45PE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620662156023	Marionette	INFO	Listening on port 63092
+1620662156356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620662627356	Marionette	INFO	Stopped listening on port 63092
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileX5TJ5k"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620662623731	Marionette	INFO	Listening on port 63232
+1620662623920	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620664963736	Marionette	INFO	Stopped listening on port 63232
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+l\\Temp\\rust_mozprofileUXsANP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620662638672	Marionette	INFO	Listening on port 63278
+1620662638714	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1620663105263	Marionette	INFO	Stopped listening on port 63278
+1620663117496	geckodriver	INFO	Listening on 127.0.0.1:63413
+1620663120593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileGqxslR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620663124119	Marionette	INFO	Listening on port 63422
+1620663124289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620663488588	Marionette	INFO	Stopped listening on port 63422
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620663492295	geckodriver	INFO	Listening on 127.0.0.1:63508
+1620663495387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileqPCmEa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620663498631	Marionette	INFO	Listening on port 63517
+1620663499097	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1620663893912	Marionette	INFO	Stopped listening on port 63517
+Temp\\rust_mozprofileLRBRU6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620663886480	Marionette	INFO	Listening on port 63607
+1620663886576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620663910562	Marionette	INFO	Stopped listening on port 63607
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620663916255	geckodriver	INFO	Listening on 127.0.0.1:63677
+1620663919330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileZMn2p7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620663922493	Marionette	INFO	Listening on port 63685
+1620663923008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620664327642	Marionette	INFO	Stopped listening on port 63685
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620664359002	geckodriver	INFO	Listening on 127.0.0.1:63782
+1620664362070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofilexxX0cf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620664365051	Marionette	INFO	Listening on port 63792
+1620664365263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620664787578	Marionette	INFO	Stopped listening on port 63792
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofilefFGTkC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620664636941	Marionette	INFO	Listening on port 63869
+1620664637370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620664789090	Marionette	INFO	Stopped listening on port 63869
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileax4J6S"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620664787858	Marionette	INFO	Listening on port 63941
+1620664787894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620664961298	Marionette	INFO	Stopped listening on port 63941
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Usconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620664962646	Marionette	INFO	Listening on port 64045
+1620664962683	Marionette	WAconsole.log: WebExtensions: reset-default-search: No addons console.log: WebExtensions: 1620666018796	Marionette	INFO	Stopped listening on port 64031620666022311	Marionette	INFO	Stopped listening on port 64045
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620708181093	geckodriver	INFO	Listening on 127.0.0.1:64426
+1620708184196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileVLLZwZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620708186903	Marionette	INFO	Listening on port 64440
+1620708187399	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Erro1620708192149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANEconsole.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620709077177	Marionette	INFO	Stopped listening on port 64440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rtificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620709257954	Marionette	INFO	Stopped listening on port 64479
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileXqMoC5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620709094227	Marionette	INFO	Listening on port 64910
+1620709094306	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1620709621637	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1620710670964	Marionette	INFO	Stopped listening on port 64910
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+onsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620709265909	Marionette	INFO	Listening on port 65002
+1620709266360	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1620709435766	Marionette	INFO	Stopped listening on port 65002
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620709441461	geckodriver	INFO	Listening on 127.0.0.1:65066
+1620709444509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileuukLG1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620709446673	Marionette	INFO	Listening on port 65074
+1620709447189	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620710672337	Marionette	INFO	Stopped listening on port 65074
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620729325192	geckodriver	INFO	Listening on 127.0.0.1:62910
+1620729328300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofile3mhJFH"
+console.warn: SearchSettings: "get: No settings file exists,1620729333568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620739131490	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620739161570	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620739191654	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620801559920	Marionette	INFO	Stopped listening on port 62918
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Rajaneekanta Mishra\AppData\Local\Temp\rust_mozprofilenTHLBg\bookmarkbackups\bookmarks-2021-05-11_11_-JwZ-ZyhIIzccvh5LW8Ueg==.jsonlz4) because it does not exist
+1620801561121	Marionette	INFO	Stopped listening on port 62958
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofilefZMNgD"
+console.warn: SearchSettings: "get: No settings file exists,1620801477624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620881572693	Marionette	INFO	Stopped listening on port 64544
+0250	Marionette	INFO	Listening on port 64587
+1620801480302	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620827084645	Marionette	INFO	Stopped listening on port 64587
+1620827089261	geckodriver	INFO	Listening on 127.0.0.1:50400
+1620827092336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileqhnrYE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620827095475	Marionette	INFO	Listening on port 50408
+1620827095541	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620881568854	Marionette	INFO	Stopped listening on port 50408
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620883206026	geckodriver	INFO	Listening on 127.0.0.1:51385
+1620883209051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileeCDtem"
+console.warn: SearchSettings: "get: No settings file exists,1620883213001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620889339475	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890010658	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890040766	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890070864	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890100963	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890131070	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890161169	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890191280	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890221377	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890251482	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890281587	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890311690	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890341798	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890371904	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890402017	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890432124	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890462219	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890492336	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890522439	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890552545	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890582651	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890612768	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890642868	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890672981	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890703085	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890733196	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890763305	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890793404	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890823514	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890853628	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890883748	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890913841	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890943945	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620890974055	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891004160	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891034262	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891064364	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891094469	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891124581	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891154683	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891184801	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891214899	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891245002	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891275111	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891305218	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891335340	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891365453	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891395559	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891425657	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891455761	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891485868	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891515968	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891546073	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891576174	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891606275	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891636380	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891666475	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891696579	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891726689	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891756794	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891786906	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891817011	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891847126	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891877232	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891907334	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891937433	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891967538	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620891997634	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892027750	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892057860	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892087966	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892118079	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892148185	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892178286	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892208386	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892238489	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892268588	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892298689	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892328790	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892358899	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892389008	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892419117	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892449207	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892479304	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892509414	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892539512	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892569612	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892599718	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892629837	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892659946	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892690051	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892720148	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892750254	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892780363	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892810465	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620910665154	Marionette	INFO	Stopped listening on port 51394
+arionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892603381	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892633485	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892663583	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892693695	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892723800	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892753903	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892783999	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620892814105	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620910666544	Marionette	INFO	Stopped listening on port 51428
+1620910668765	geckodriver	INFO	Listening on 127.0.0.1:53727
+1620910671903	mozrunner::runner	INFO	Running command: "C:\\P1620910674118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Usconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620910677630	Marionette	INFO	Listening on port 53752
+1620910677854	Marionette	WAconsole.error: Region.jsm: "Error fetching region" (new Erroconsole.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Econsole.log: WebExtensions: reset-default-search: No addons console.log: WebExtensions: JavaScript error: , line 0: NotFoundError: Could not move so1620967610324	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620967640421	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620969046014	Marionette	INFO	Stopped listening on port 53752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 'interactive'.
+1620967663944	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620969014567	geckodriver	INFO	Listening on 127.0.0.1:61168
+1620969017634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJANE~1\\AppData\\Local\\Temp\\rust_mozprofileKV9B6f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620969020732	Marionette	INFO	Listening on port 61176
+1620969020848	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
