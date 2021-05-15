@@ -67,7 +67,7 @@ def send_notif_to_telegram(content):
 try:
     while True:
         check_sessions()
-        time.sleep(30)
+        time.sleep(60)
 except Exception as e:
     print(e)
 finally:

@@ -18,8 +18,7 @@ d1 = today.strftime("%d-%m-%Y")
 def check_sessions():
     try:
         driver.get(
-            "https://cdn-api.co-vin.in/api/v2/appointment/sessions/calendarByDistrict?district_id=" + str(
-                code) + "&date="+str(d1))
+            "https://cdn-api.co-vin.in/api/v2/appointment/sessions/calendarByDistrict?district_id=" + str(code) + "&date="+str(d1))
 
         json_data = json.loads(driver.find_element_by_id('json').text)
 
@@ -68,7 +67,7 @@ def send_notif_to_telegram(content):
 try:
     while True:
         check_sessions()
-        time.sleep(30)
+        time.sleep(60)
 except Exception as e:
     print(e)
 finally:
