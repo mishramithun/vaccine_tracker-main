@@ -41,7 +41,6 @@ def check_sessions():
                     session_str_45 += "Above 45 Vaccine availability \n"
                     session_str_45 += "==================================\n"
                 
-                # if session['min_age_limit'] == age and session['available_capacity'] > 0:
                 if session['available_capacity'] > 0:
                     if session['min_age_limit'] == 18:
                         if is_center_18:
