@@ -24,29 +24,46 @@ def check_sessions():
 
         session_str_18 = ""
         session_str_45 = ""
+
         for center in json_data['centers']:
+            is_center_18 = True
+            is_center_45 = True
+            is_center_end_18 = False
+            is_center_end_45 = False
+
             if len(center['sessions']) == 0:
                 continue
             for session in center['sessions']:
+                if session_str_18 == "":
+                    session_str_18 += "Above 18 Vaccine availability \n"
+                    session_str_18 += "==================================\n"
+                if session_str_45 == "":
+                    session_str_45 += "Above 45 Vaccine availability \n"
+                    session_str_45 += "==================================\n"
+                
                 # if session['min_age_limit'] == age and session['available_capacity'] > 0:
                 if session['available_capacity'] > 0:
                     if session['min_age_limit'] == 18:
-                        if session_str_18 == "":
-                            session_str_18 += "Above 18 Vaccine availability Details\n"
-                            session_str_18 += "==================================\n"
-                        session_str_18 += "Date: " + str(session['date']) + \
-                                          "\nCenter: " + center['address'] + "\nPin: " + str(center['pincode']) + \
-                                          "\nDose : " + str(session['available_capacity']) + "\n" + \
-                                          "------------------------------\n"
+                        if is_center_18:
+                            session_str_18 += "Center: " + str(center['name']) + ", Pin: " + str(center['pincode'])  
+                            is_center_18 = False
+                        session_str_18 += "\n" + str(session['date']) + "-" + str(session['vaccine']) + \
+                            "- " + str(session['available_capacity']) 
                     elif session['min_age_limit'] == 45:
-                        if session_str_45 == "":
-                            session_str_45 += "Above 45 Vaccine availability Details\n"
-                            session_str_45 += "==================================\n"
-                        session_str_45 += "Date: " + str(session['date']) + \
-                                          "\nCenter: " + center['address'] + "\nPin: " + str(center['pincode']) + \
-                                          "\nDose : " + str(session['available_capacity']) + "\n" + \
-                                          "------------------------------\n"
-                    break
+                        if is_center_45:
+                            session_str_45 += "Center: " + str(center['name']) + ", Pin: " + str(center['pincode'])
+                            is_center_45 = False
+                        session_str_45 += "\n" + str(session['date']) + "-" + str(session['vaccine']) + \
+                            "- " + str(session['available_capacity'])
+                
+                    is_center_end_18 = True
+                    is_center_end_45 = True
+
+            if is_center_end_18 and is_center_18 is False:
+                session_str_18 += "\n------------------------------\n"
+            if is_center_end_45 and is_center_45 is False:
+                session_str_45 += "\n------------------------------\n"
+                    
         print(datetime.datetime.now())
         if len(session_str_18) != 0:
             send_notif_to_telegram(session_str_18)
